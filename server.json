@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2025-03-27T20:48:38.858Z",
       "id": 5
+    },
+    {
+      "description": "café",
+      "category": "bebida",
+      "price": 27,
+      "type": "income",
+      "createdAt": "2025-03-27T22:33:56.606Z",
+      "id": 6
     }
   ]
 }
